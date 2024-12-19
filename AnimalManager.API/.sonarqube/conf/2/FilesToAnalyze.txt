@@ -1,0 +1,5 @@
+﻿D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Context\AppDbContext.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Migrations\20241218185927_InitialDB.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Migrations\20241218185927_InitialDB.Designer.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Migrations\AppDbContextModelSnapshot.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Repositories\Repository.cs

@@ -1,0 +1,3 @@
+﻿D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Domain\Entities\Animal.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Domain\Entities\BaseEntity.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Domain\Interfaces\IRepository.cs

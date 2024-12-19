@@ -1,0 +1,1 @@
+œR…D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\AnimalManager.Infrastructure.csproj¢net6.0òCSharp10

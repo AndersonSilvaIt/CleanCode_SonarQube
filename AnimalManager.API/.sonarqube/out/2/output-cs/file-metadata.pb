@@ -1,0 +1,9 @@
+´
+üD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\obj\Debug\net6.0\AnimalManager.Infrastructure.AssemblyInfo.csutf-8≠
+°D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8≠
+°D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\obj\Debug\net6.0\AnimalManager.Infrastructure.GlobalUsings.g.csutf-8Ö
+|D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Repositories\Repository.csutf-8ï
+âD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Migrations\AppDbContextModelSnapshot.csutf-8ù
+ëD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Migrations\20241218185927_InitialDB.Designer.csutf-8í
+àD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Migrations\20241218185927_InitialDB.csutf-8Ç
+yD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Infrastructure\Context\AppDbContext.csutf-8

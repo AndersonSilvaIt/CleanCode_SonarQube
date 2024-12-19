@@ -1,0 +1,12 @@
+﻿D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\Controllers\AnimalController.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\Program.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\obj\Debug\net6.0\AnimalManager.API.GlobalUsings.g.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\obj\Debug\net6.0\AnimalManager.API.AssemblyInfo.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\obj\Debug\net6.0\AnimalManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\appsettings.Development.json
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\appsettings.json
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\users.db
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\users.db-shm
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\users.db-wal
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.API\Properties\launchSettings.json

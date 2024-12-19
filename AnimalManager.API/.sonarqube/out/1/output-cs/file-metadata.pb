@@ -1,0 +1,10 @@
+•
+ôD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\obj\Debug\net6.0\AnimalManager.Application.AssemblyInfo.csutf-8™
+ûD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ß
+õD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\obj\Debug\net6.0\AnimalManager.Application.GlobalUsings.g.csutf-8à
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\Validators\AnimalDtoValidator.csutf-8Å
+xD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\Services\AnimalService.csutf-8à
+D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\Mappings\AnimalMappingProfile.csutf-8Ñ
+{D:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\Interfaces\IAnimalService.csutf-8y
+pD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\DTOs\AnimalDto.csutf-8x
+oD:\Anderson\Estudos\Estudos_C#\CleanCode_SonarQube\AnimalManager.API\AnimalManager.Application\Common\Result.csutf-8

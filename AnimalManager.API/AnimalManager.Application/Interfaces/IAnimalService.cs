@@ -8,8 +8,8 @@ namespace AnimalManager.Application.Interfaces
         Task<IEnumerable<AnimalDto>> GetAllAsync();
         Task<AnimalDto> GetByIdAsync(Guid id);
 
-        Task<Result<AnimalDto>> AddAsync(AnimalDto dto);
-        Task<Result<AnimalDto>> UpdateAsync(Guid id, AnimalDto dto);
+        Task<Result<AnimalDto>> AddAsync(AnimalDto animalDto);
+        Task<Result<AnimalDto>> UpdateAsync(Guid id, AnimalDto animalDto);
         Task DeleteAsync(Guid id);
     }
 }
