@@ -32,7 +32,7 @@ namespace AnimalManager.API.Controllers
         {
             var result = await _animalService.AddAsync(animalDto);
 
-            if (result.IsSuccess) return BadRequest(new { Errors = result.Errors });
+            if (!result.IsSuccess) return BadRequest(new { Errors = result.Errors });
 
             return Created("", result.Data);
         }
@@ -47,7 +47,7 @@ namespace AnimalManager.API.Controllers
 
             var result = await _animalService.UpdateAsync(id, animalDto);
 
-            if (result.IsSuccess) return BadRequest(new { Errors = result.Errors });
+            if (!result.IsSuccess) return BadRequest(new { Errors = result.Errors });
 
             return NoContent();
         }

@@ -3,7 +3,7 @@
     public abstract class BaseEntity
     {
         public Guid Id { get; private set; } = Guid.NewGuid();
-        public DateTime CratedAt { get; private set; }
+        public DateTime CratedAt { get; private set; } = DateTime.Now;
         public DateTime UpdatedAt { get; private set; }
 
         public void UpdateTimestamp()
